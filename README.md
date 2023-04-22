@@ -10,5 +10,6 @@ In addition to my academic pursuits, I am also a social and outgoing person who 
 
 Thank you for taking the time to learn more about me. I look forward to connecting with other tech professionals and contributing to the open-source community through my Github projects.
 
+Resume:
 
 <img width="652" alt="Screenshot 2023-04-22 at 12 23 16 AM" src="https://user-images.githubusercontent.com/104103767/233769709-fa76439e-255d-430c-9e4a-a3af33a00579.png">
