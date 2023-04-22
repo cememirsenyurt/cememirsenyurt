@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cememirsenyurt
 - 👀 I’m interested in coding and doing sports!
 
-Cem Emir Senyurt
+                                      Cem Emir Senyurt
 650-305-9622 • cememirsenyurt99@gmail.com • www.linkedin.com/in/cem-emir-senyurt-b8b770221
 EDUCATION
 • University of California Irvine Expected Graduation Spring 2024
