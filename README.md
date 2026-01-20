@@ -1,15 +1,41 @@
-- 👋 Hello and welcome to my Github profile!
+# 👋 Hello and welcome to my GitHub!
 
-My name is Cem Emir Senyurt, and I am a highly motivated and dedicated computer science student with a passion for solving complex problems through innovative technology solutions. Originally from Istanbul, Turkey, I moved to San Francisco in 2017 to pursue my education and explore the opportunities that the Silicon Valley has to offer.
+I’m **Cem Emir Senyurt**, a software engineer and ML-focused builder in the Bay Area. I recently completed my **B.S. in Computer Science (UC Irvine)** and **M.S. in Software Engineering (Carnegie Mellon University)**.
 
-As a student at the College of San Mateo, I discovered my passion for computer science and dedicated myself to learning programming languages, despite having no prior experience in the field. I quickly excelled in my studies, achieving a 3.93 GPA and earning a place in the Phi Theta Kappa Honor Society, which is the international honor society for two-year colleges and academic programs.
+I like owning ambiguous problems end to end: turning messy inputs into reliable systems, shipping fast, and measuring outcomes.
 
-Currently, I am studying Computer Science at the University of California Irvine, where I am eager to further expand my knowledge and skill set. I am actively seeking internships to gain practical experience and apply my academic knowledge to real-world projects. My ultimate goal is to pursue a master's degree in Computer Science and become a highly skilled and respected software developer.
+---
 
-In addition to my academic pursuits, I am also a social and outgoing person who enjoys spending time with friends and family, playing guitar, and working out at the gym. I am also an avid sports fan and history buff, which has helped me develop strong analytical skills and attention to detail, which are essential for success in the tech industry.
+## 🔭 What I’m working on
 
-Thank you for taking the time to learn more about me. I look forward to connecting with other tech professionals and contributing to the open-source community through my Github projects.
+- **HandyTalk (CMU Research)**: Real-time sign language to English translation for **Apple Vision Pro**, integrating Apple Foundation Models for improved output quality and reliability.  
+- **Bosch Research**: **CLIP-based semantic mapping** for open-vocabulary object and region search, plus depth and 3D perception pipelines.  
+- **GenAI Compliance Automation**: Built workflows to scale call compliance checks using LLMs, reducing review time significantly.  
+- **Serin AI (IconBay Technologies)**: An AI companion for mood tracking and structured check-ins. Shipped production features end to end (chat, journaling, subscriptions, integrations).
 
-Resume:
+---
+
+## 🧰 Tech I use a lot
+
+**TypeScript, Node.js, Python, PostgreSQL, Docker, AWS**  
+ML pipelines, evaluation + testing, analytics, product integrations (Stripe, OAuth, email)
+
+---
+
+## 🤝 Open to
+
+- Roles where I can build and ship real products, especially **ML-enabled systems** and **scalable backend platforms**
+- Collaborations in **applied AI**, **tooling**, and **developer products**
+
+---
+
+## 📫 Contact
+
+- Email: **cememirsenyurt99@gmail.com**
+- LinkedIn: *(add link here if you want)*
+
+---
+
+## Resume:
 
 <img width="917" height="1189" alt="Screenshot 2026-01-19 at 6 08 40 PM" src="https://github.com/user-attachments/assets/43530712-ced6-401a-ab14-40a95327eb95" />
