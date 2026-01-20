@@ -12,4 +12,4 @@ Thank you for taking the time to learn more about me. I look forward to connecti
 
 Resume:
 
-![Screenshot 2023-10-04 at 8 30 44 PM](https://github.com/cememirsenyurt/cememirsenyurt/assets/104103767/10683612-8b6e-484d-ac81-18968afe8093)
+<img width="917" height="1189" alt="Screenshot 2026-01-19 at 6 08 40 PM" src="https://github.com/user-attachments/assets/43530712-ced6-401a-ab14-40a95327eb95" />
