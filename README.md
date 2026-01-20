@@ -1,6 +1,6 @@
 # 👋 Hello and welcome to my GitHub!
 
-I’m **Cem Emir Senyurt**, a software engineer and ML-focused builder in the Bay Area. I recently completed my **B.S. in Computer Science (UC Irvine)** and **M.S. in Software Engineering (Carnegie Mellon University)**.
+I’m **Cem Emir Senyurt**, a software engineer and AI builder in the Bay Area. I recently completed my **B.S. in Computer Science (UC Irvine)** and **M.S. in Software Engineering (Carnegie Mellon University)**.
 
 I like owning ambiguous problems end to end: turning messy inputs into reliable systems, shipping fast, and measuring outcomes.
 
@@ -32,7 +32,7 @@ ML pipelines, evaluation + testing, analytics, product integrations (Stripe, OAu
 ## 📫 Contact
 
 - Email: **cememirsenyurt99@gmail.com**
-- LinkedIn: *(add link here if you want)*
+- LinkedIn: *https://www.linkedin.com/in/cem-emir-senyurt/*
 
 ---
 
